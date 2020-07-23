@@ -49,3 +49,13 @@
 * Statistical Functions
 * Sort
 * Search
+
+### Numpy Random
+
+* Generate Random Number
+* Random Data Distribution
+* Random Permutation
+* Normal (Gaussian) Distribution
+* Binomial Distribution
+* Poisson Distrbution
+* Multinomial Distribution
